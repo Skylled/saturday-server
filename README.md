@@ -1,4 +1,11 @@
 # saturday_server
+This is the Aqueduct server portion of a side project I'm working on. The primary goal of the project is to be able to watch cartoons with my friends and choose what to watch from our phones using a Rock Band 4-esque voting system instead of just shuffle.
+
+The media side of things will likely be handled by Kodi, given its fairly useful API including Library support.
+
+The votes will be collected from a Flutter application, hosted in a separate project.
+
+The other goal of this project is to develop an understanding of Aqueduct, so I may use it in other projects.
 
 ## Running the Application Locally
 
